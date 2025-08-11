@@ -21,9 +21,9 @@ Built for **Admins**, **Faculty**, and **Students** with a focus on usability, s
 | Layer      | Technology |
 |------------|------------|
 | **Backend** | Spring Boot |
-| **Frontend** | React.js / Angular / Vue |
+| **Frontend** | React.js |
 | **Database** | MySQL |
-| **Tools**    | PlantUML (Diagrams), Maven/Gradle (Build) |
+| **Tools**    | PlantUML (Diagrams), Maven (Build) |
 
 ---
 
