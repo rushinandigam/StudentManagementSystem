@@ -48,10 +48,3 @@ Built for **Admins**, **Faculty**, and **Students** with a focus on usability, s
 ![sms_sequence_diagram](https://github.com/user-attachments/assets/890cb914-3bf0-4a85-8e21-73ca2c2e0201)
 
 ---
-
-## 🚀 How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/student-management-system.git
-   cd student-management-system
